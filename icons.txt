@@ -1,0 +1,12 @@
+<i class="far fa-times-circle"></i>
+<i class="fab fa-facebook-square"></i>
+<i class="fab fa-twitter-square"></i>
+<i class="fab fa-google-plus-square"></i>
+<i class="far fa-play-circle"></i>
+<i class="fas fa-download"></i>
+<i class="fas fa-angle-right"></i>
+<i class="fas fa-search"></i>
+<i class="fas fa-home"></i>
+<i class="fas fa-arrow-circle-down"></i>
+<i class="fas fa-headset"></i>
+<i class="fas fa-question-circle"></i>
